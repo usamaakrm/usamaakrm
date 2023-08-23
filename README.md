@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AngularJS**
 
-- 👨‍💻 All of my projects are available at [https://usamaa.pages.dev](https://usamaa.pages.dev)
+- 👨‍💻 All of my projects are available at [https://usamaa.netlify.app](https://usamaa.netlify.app)
 
 - 💬 Ask me about **Angular, CSS**
 
